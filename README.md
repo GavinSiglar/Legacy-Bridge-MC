@@ -1,5 +1,5 @@
 # Legacy Bridge MC
-Advanced technical NBT automation that brings modern support for legacy Minecraft maps.
+Advanced technical NBT automation mod that brings modern support for legacy Minecraft maps.
 
 ## Roadmap (Versions to be supported)
 🟡 1.12.x & 1.21.10
