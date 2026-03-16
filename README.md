@@ -1,9 +1,10 @@
 # [Download v1.0.0 Release](https://github.com/GavinSiglar/Legacy-Bridge-MC/releases/latest)
 # Legacy Bridge MC Fabric Mod
 
-+Converts resource packs embedded within maps as well
+### Completely converts maps, whether there are command blocks/resource packs/anything, it converts everything to modern Minecraft!
 
-### Current Status:🟡 *70% Of 1.12.2 Maps Should Be Fully Compatible With 1.21.10*
+**Current Status:🟡 *70% Of 1.12.2 Maps Should Be Fully Compatible With 1.21.10***
+
 *Notes about current progress: Decent 1.0-->1.11.x Map Coverage*
 
 ## Roadmap (Versions to be supported)
