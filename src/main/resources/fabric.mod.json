@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "legacybridge",
+  "version": "1.0.0",
+  "name": "Legacy Bridge",
+  "description": "Converts legacy (1.8-1.12.2) Minecraft maps to 1.21.10 — migrates command block syntax, resource packs, and block data values.",
+  "authors": ["GavinSiglar"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.commandpatcher.CommandPatcher"
+    ]
+  },
+  "mixins": [
+    "commandpatcher.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.10",
+    "java": ">=21"
+  }
+}
